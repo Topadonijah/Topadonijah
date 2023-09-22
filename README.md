@@ -3,6 +3,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Coram%20Deo&fontSize=90%&animation=fadeIn" />
 <br>
 
+# I'm currently learning!
+Computer Vision👁️
+
+Natural language processing🗣️
+
+Design pattern🔨
+
+Germany🇩🇪
+
+# Stacks
 <p align="center" display="inline-block">
     🔡Language <br>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"> 
