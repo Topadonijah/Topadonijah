@@ -4,13 +4,14 @@
 <br>
 
 # I'm currently learning!
-Computer Vision👁️
+### **Computer Vision**👁️
 
-Natural language processing🗣️
 
-Design pattern🔨
+### **Natural language processing**🗣️
 
-Germany🇩🇪
+### **Design pattern**🔨
+
+### **Germany**🇩🇪
 
 # Stacks
 <p align="center" display="inline-block">
