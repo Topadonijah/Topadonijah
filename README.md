@@ -6,7 +6,6 @@
 # I'm currently learning!
 ### **Computer Vision**👁️
 
-
 ### **Natural language processing**🗣️
 
 ### **Design pattern**🔨
