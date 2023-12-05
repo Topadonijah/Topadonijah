@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Coram%20Deo&fontSize=90%&animation=fadeIn" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&size=26&pause=1000&color=F7473F&center=true&multiline=true&repeat=false&random=false&width=435&height=40&lines=%F0%9F%8E%84+Merry+Christmas+%F0%9F%8E%84)](https://git.io/typing-svg)
 <br>
 
 # I'm currently learning!
@@ -59,7 +59,8 @@
 <div align="center">
  
 ![Topadonijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topadonijah&show_icons=true&theme=radical)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tasong12)](https://solved.ac/tasong12)  
+<img width="45%" src="https://raw.githubusercontent.com/Topadonijah/github-stats-transparent/output/generated/languages.svg"/>
+<!--- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tasong12)](https://solved.ac/tasong12) --->
 
 </div>
 
