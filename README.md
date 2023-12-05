@@ -58,8 +58,7 @@
 
 <div align="center">
  
-![Topadonijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topadonijah&show_icons=true&theme=radical)
-<img width="45%" src="https://raw.githubusercontent.com/Topadonijah/github-stats-transparent/output/generated/languages.svg"/>
+<!---![Topadonijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topadonijah&show_icons=true&theme=radical)--->
 <!--- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tasong12)](https://solved.ac/tasong12) --->
 
 </div>
