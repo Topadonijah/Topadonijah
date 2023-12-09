@@ -57,6 +57,17 @@
 </div>
 
 <div align="center">
+
+# Experience
+
+<div align=center>
+ <a href="https://www.23haru.com">
+  <img src="https://avatars.githubusercontent.com/u/126999366" height="90"/>
+ </a>
+ <div><strong>Mobile Application Android Develop</strong></div>
+ <div><strong>using Kotlin</strong><div>
+ <div style='color:gray'>2023.01.15 ~ 2023.06.25</div>
+</div>
  
 <!---![Topadonijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topadonijah&show_icons=true&theme=radical)--->
 <!--- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tasong12)](https://solved.ac/tasong12) --->
