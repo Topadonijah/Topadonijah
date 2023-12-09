@@ -1,8 +1,20 @@
+<div align="left">
+
+~~~
+눈물을 흘리며 씨를 뿌리는 자는 기쁨으로 거두리로다
+울며 씨를 뿌리러 나가는 자는 정녕 기쁨으로 그 단을 가지고 돌아오리로다 (시편 126:5-6)
+
+Those who sow with tears will reap with songs of joy.
+Those who go out weeping,
+carrying seed to sow,will return with songs of joy,
+carrying sheaves with them. (Psalm 126:5-6)
+~~~
+
+</div>
+
+
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&size=26&pause=1000&color=F7473F&center=true&multiline=true&repeat=false&random=false&width=435&height=40&lines=%F0%9F%8E%84+Merry+Christmas+%F0%9F%8E%84)](https://git.io/typing-svg)
-<br>
-
+    
 # I'm currently learning!
 ### **Computer Vision**👁️
 
