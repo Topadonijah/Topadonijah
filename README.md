@@ -20,9 +20,9 @@ carrying sheaves with them. (Psalm 126:5-6)
 
 ### **Natural language processing**🗣️
 
-### **Design pattern**🔨
+### **Node JS**🔨
 
-### **Germany**🇩🇪
+### **Spring Boot**🌱
 
 # Stacks
 <p align="center" display="inline-block">
