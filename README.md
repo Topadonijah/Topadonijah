@@ -80,7 +80,7 @@ carrying sheaves with them. (Psalm 126:5-6)
  <a href="https://www.23haru.com">
   <img src="https://avatars.githubusercontent.com/u/126999366" height="90"/>
  </a>
- <div><strong>Mobile Application Android Develop</strong></div>
+ <div><strong>Android application develop</strong></div>
  <div><strong>using Kotlin</strong><div>
  <div style='color:gray'>2023.01.15 ~ 2023.06.25</div>
 </div>
