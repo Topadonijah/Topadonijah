@@ -91,7 +91,7 @@ carrying sheaves with them. (Psalm 126:5-6)
  </a>
  <div><strong>Web backend develop </strong></div>
  <div><strong>using NodeJS</strong><div>
- <div style='color:gray'>2023.12.29 ~ </div>
+ <div style='color:gray'>2023.12.29 ~ Now</div>
 </div>
  
 <!---![Topadonijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topadonijah&show_icons=true&theme=radical)--->
