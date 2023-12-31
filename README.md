@@ -89,7 +89,7 @@ carrying sheaves with them. (Psalm 126:5-6)
  <a href="https://altermall.site">
   <img src="./static/alterMallIcon.jpeg" height="180"/>
  </a>
- <div><strong>Web backend develop </strong></div>
+ <div><strong>Web server develop </strong></div>
  <div><strong>using NodeJS</strong><div>
  <div style='color:gray'>2023.12.29 ~ Now</div>
 </div>
