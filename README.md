@@ -84,6 +84,15 @@ carrying sheaves with them. (Psalm 126:5-6)
  <div><strong>using Kotlin</strong><div>
  <div style='color:gray'>2023.01.15 ~ 2023.06.25</div>
 </div>
+     
+<div align=center>
+ <a href="https://www.23haru.com">
+  <img src="![alterMallIcon](https://github.com/Topadonijah/Topadonijah/assets/49757982/fdd5824b-4bfd-4604-b885-ef1407c47bb5)" height="90"/>
+ </a>
+ <div><strong>Web Backend Develop </strong></div>
+ <div><strong>using NodeJS</strong><div>
+ <div style='color:gray'>2023.12.29 ~ </div>
+</div>
  
 <!---![Topadonijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topadonijah&show_icons=true&theme=radical)--->
 <!--- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tasong12)](https://solved.ac/tasong12) --->
