@@ -12,7 +12,6 @@ carrying sheaves with them. (Psalm 126:5-6)
 
 </div>
 
-
 <div align="center">
     
 # I'm currently learning!
@@ -26,44 +25,53 @@ carrying sheaves with them. (Psalm 126:5-6)
 
 # Stacks
 <p align="center" display="inline-block">
-    🔡Language <br>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
-</p><br>
+    <strong>🔡Language</strong> 
+    <br>
+        <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
+    </br>
+</p>
 
 <p align="center" display="inline-block">
-    🔙Backend <br>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.JS-339933?style=for-the-badge&logo=express&logoColor=white">
-</p><br>
+    <strong>🔙Backend</strong>
+    <br>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+        <img src="https://img.shields.io/badge/Express.JS-339933?style=for-the-badge&logo=express&logoColor=white">
+    </br>
+</p>
 
 <p align="center" display="inline-block">
-    💡Frontend <br>
+    <strong>💡Frontend</strong>
+    <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-</p><br>
+    </br>
+</p>
 
 <p align="center" display="inline-block">
-    🗃️DB<br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p><br>
+    <strong>🗃️DB</strong>
+    <br>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </br>
+</p>
 
 <p align="center" display="inline-block">
-    🔨Tools <br>
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-    <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-    <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/SwaggerUi-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
-  
-</p><br>
+    <strong>🔨Tools</strong> 
+    <br>
+        <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+        <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+        <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+    <br>
+        <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/SwaggerUi-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+</p>
 
 <p align="center" display="inline-block">
-    👏Cowork Tools 
+    <strong>👏Cowork Tools</strong>
     <br>
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
@@ -82,7 +90,7 @@ carrying sheaves with them. (Psalm 126:5-6)
   <img src="https://avatars.githubusercontent.com/u/126999366" height="90"/>
  </a>
  <div><strong>Android application develop</strong></div>
- <div><strong>using Kotlin</strong><div>
+ <div><strong>using Kotlin</strong></div>
  <div style='color:gray'>2023.01.15 ~ 2023.06.25</div>
 </div>
      
@@ -91,7 +99,7 @@ carrying sheaves with them. (Psalm 126:5-6)
   <img src="./static/alterMallIcon.jpeg" height="180"/>
  </a>
  <div><strong>Web server develop </strong></div>
- <div><strong>using NodeJS</strong><div>
+ <div><strong>using NodeJS</strong></div>
  <div style='color:gray'>2023.12.29 ~ Now</div>
 </div>
  
@@ -99,7 +107,6 @@ carrying sheaves with them. (Psalm 126:5-6)
 <!--- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tasong12)](https://solved.ac/tasong12) --->
 
 </div>
-
 
 <!---
 Topadonijah/Topadonijah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
