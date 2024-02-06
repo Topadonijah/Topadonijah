@@ -95,7 +95,7 @@ carrying sheaves with them. (Psalm 126:5-6)
 </div>
      
 <div align=center>
- <a href="https://altermall.site">
+ <a href="https://altermall.shop">
   <img src="./static/alterMallIcon.jpeg" height="180"/>
  </a>
  <div><strong>Web server develop </strong></div>
