@@ -17,10 +17,6 @@ carrying sheaves with them. (Psalm 126:5-6)
 # I'm currently learning!
 ### **Computer Vision**👁️
 
-### **Natural language processing**🗣️
-
-### **Node JS**🔨
-
 ### **Spring Boot**🌱
 
 ### **Docker🐳**
