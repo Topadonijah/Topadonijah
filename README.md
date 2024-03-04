@@ -101,7 +101,7 @@ carrying sheaves with them. (Psalm 126:5-6)
   <img src="./static/alterMallIcon.jpeg" height="180"/>
  </a>
  <div><strong>Web server develop </strong></div>
- <div><strong>using NodeJS</strong></div>
+ <div><strong>using Express</strong></div>
  <div style='color:gray'>2023.12.29 ~ Now</div>
 </div>
  
