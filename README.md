@@ -91,7 +91,7 @@ carrying sheaves with them. (Psalm 126:5-6)
           <div><strong>ROK Marine corps</strong></div>
       </td>
       <td align="center" style="width: 25%;">
-           <div style='color:gray'>2020.01.20 ~ 2021.07.31</div>
+           <div style='color:gray'>2020 ~ 2021</div>
       </td>     
     <tr />
       <td align="center" style="width: 25%;">
