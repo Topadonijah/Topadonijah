@@ -34,7 +34,7 @@ carrying sheaves with them. (Psalm 126:5-6)
 <p align="center" display="inline-block">
     <strong>🔙Backend</strong>
     <br>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+        <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
         <img src="https://img.shields.io/badge/Express.JS-339933?style=for-the-badge&logo=express&logoColor=white">
     </br>
