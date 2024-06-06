@@ -69,24 +69,38 @@ carrying sheaves with them. (Psalm 126:5-6)
 <div align="center">
 
 # Experience
-
-<div align=center>
- <a href="https://www.23haru.com">
-  <img src="https://avatars.githubusercontent.com/u/126999366" height="90"/>
- </a>
- <div><strong>Android application develop</strong></div>
- <div><strong>using Kotlin</strong></div>
- <div style='color:gray'>2023.01.15 ~ 2023.06.25</div>
-</div>
-     
-<div align=center>
- <a href="https://altermall.shop">
-  <img src="./static/alterMallIcon.jpeg" height="180"/>
- </a>
- <div><strong>Web server develop </strong></div>
- <div><strong>using Express</strong></div>
- <div style='color:gray'>2023.12.29 ~ Now</div>
-</div>
+<table style="width: 100%;">
+  <tbody>
+    <tr>
+      <td align="center" style="width: 25%;">
+          <img src="https://github.com/Topadonijah/Trees/assets/49757982/7542dd7b-397d-4fc2-9b81-0e08a1aeb44e" height="90"/>
+          <b><div><strong>Kookmin university</strong></div></b>
+          <div><strong>Computer science</strong></div>
+          <div style='color:gray'>2019.03.02 ~ Now</div>
+      </td>
+      <td align="center" style="width: 25%;">
+          <img src="https://github.com/Topadonijah/Trees/assets/49757982/a0d8a6b6-9af9-4420-b668-065d3006830e" height="90"/>
+          <b><div><strong>ROK Marine corps</strong></div></b>
+          <div><strong>Sergeant</strong></div>
+          <div style='color:gray'>2020.01.20 ~ 2021.07.31</div>
+      </td>
+      <td align="center" style="width: 25%;">
+          <a href=""https://www.23haru.com""><img src="https://avatars.githubusercontent.com/u/126999366" height="90"/>
+          <b><div><strong>Android application develop</strong></div></b>
+          <div><strong>using Kotlin</strong></div>
+          </a>
+          <div style='color:gray'>2023.01.15 ~ 2023.06.25</div>
+      </td>
+      <td align="center" style="width: 25%;">
+          <a href="https://altermall.shop"><img src="./static/alterMallIcon.jpeg" height="90"/>
+          <div><strong>Web server develop </strong></div>
+          <div><strong>using express </strong></div>
+          </a>
+          <div style='color:gray'>2023.12.29 ~ Now</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
  
 <!---![Topadonijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topadonijah&show_icons=true&theme=radical)--->
 <!--- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tasong12)](https://solved.ac/tasong12) --->
