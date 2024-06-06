@@ -15,11 +15,9 @@ carrying sheaves with them. (Psalm 126:5-6)
 <div align="center">
     
 # I'm currently learning!
-### **Computer Vision**👁️
+### **Stable diffusion**
 
-### **Spring Boot**🌱
-
-### **Docker🐳**
+### **Django**
 
 # Stacks
 <p align="center" display="inline-block">
@@ -57,24 +55,13 @@ carrying sheaves with them. (Psalm 126:5-6)
 </p>
 
 <p align="center" display="inline-block">
-    <strong>🔨Tools</strong> 
+    <strong>🔨AI</strong> 
     <br>
-        <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-        <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-        <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+        <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+        <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <br>
-        <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/SwaggerUi-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
-</p>
 
-<p align="center" display="inline-block">
-    <strong>👏Cowork Tools</strong>
-    <br>
-    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-    </br>
 </p>
 
 </div>
