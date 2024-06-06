@@ -87,8 +87,8 @@ carrying sheaves with them. (Psalm 126:5-6)
             <img src="https://github.com/Topadonijah/Trees/assets/49757982/a0d8a6b6-9af9-4420-b668-065d3006830e" height="90"/>
       </td>
       <td align="center" style="width: 50%;">
+          <div><strong>Sergeant of</strong></div>
           <div><strong>ROK Marine corps</strong></div>
-          <div><strong>Sergeant</strong></div>
       </td>
       <td align="center" style="width: 25%;">
            <div style='color:gray'>2020.01.20 ~ 2021.07.31</div>
@@ -98,6 +98,7 @@ carrying sheaves with them. (Psalm 126:5-6)
         <a href=""https://www.23haru.com""><img src="https://avatars.githubusercontent.com/u/126999366" height="90"/>
       </td>
       <td align="center" style="width: 50%;">
+          <div><strong>SNS service "Haru"</strong></div>
           <a href=""https://www.23haru.com"">
           <div><strong>Android application develop</strong></div>
           <div><strong>using Kotlin</strong></div>
@@ -111,6 +112,7 @@ carrying sheaves with them. (Psalm 126:5-6)
         <a href="https://altermall.shop"><img src="./static/alterMallIcon.jpeg" height="90"/></a>
       </td>
       <td align="center" style="width: 50%;">
+          <div><strong>Online Marketplace "Altermall"</strong></div>
           <a href="https://altermall.shop">
           <div><strong>Web server develop </strong></div>
           <div><strong>using express </strong></div>
