@@ -73,31 +73,52 @@ carrying sheaves with them. (Psalm 126:5-6)
   <tbody>
     <tr>
       <td align="center" style="width: 25%;">
-          <img src="https://github.com/Topadonijah/Trees/assets/49757982/7542dd7b-397d-4fc2-9b81-0e08a1aeb44e" height="90"/>
-          <b><div><strong>Kookmin university</strong></div></b>
-          <div><strong>Computer science</strong></div>
-          <div style='color:gray'>2019.03.02 ~ Now</div>
+            <img src="https://github.com/Topadonijah/Trees/assets/49757982/7542dd7b-397d-4fc2-9b81-0e08a1aeb44e" height="90"/>
+      </td>
+      <td align="center" style="width: 50%;">
+            <div><strong>Kookmin university</strong></div>
+            <div><strong>Computer science</strong></div>
       </td>
       <td align="center" style="width: 25%;">
-          <img src="https://github.com/Topadonijah/Trees/assets/49757982/a0d8a6b6-9af9-4420-b668-065d3006830e" height="90"/>
-          <b><div><strong>ROK Marine corps</strong></div></b>
+            <div style='color:gray'>2019.03.02 ~ Now</div>
+      </td>
+    <tr />
+      <td align="center" style="width: 25%;">
+            <img src="https://github.com/Topadonijah/Trees/assets/49757982/a0d8a6b6-9af9-4420-b668-065d3006830e" height="90"/>
+      </td>
+      <td align="center" style="width: 50%;">
+          <div><strong>ROK Marine corps</strong></div>
           <div><strong>Sergeant</strong></div>
-          <div style='color:gray'>2020.01.20 ~ 2021.07.31</div>
       </td>
       <td align="center" style="width: 25%;">
-          <a href=""https://www.23haru.com""><img src="https://avatars.githubusercontent.com/u/126999366" height="90"/>
-          <b><div><strong>Android application develop</strong></div></b>
+           <div style='color:gray'>2020.01.20 ~ 2021.07.31</div>
+      </td>     
+    <tr />
+      <td align="center" style="width: 25%;">
+        <a href=""https://www.23haru.com""><img src="https://avatars.githubusercontent.com/u/126999366" height="90"/>
+      </td>
+      <td align="center" style="width: 50%;">
+          <a href=""https://www.23haru.com"">
+          <div><strong>Android application develop</strong></div>
           <div><strong>using Kotlin</strong></div>
           </a>
-          <div style='color:gray'>2023.01.15 ~ 2023.06.25</div>
       </td>
       <td align="center" style="width: 25%;">
-          <a href="https://altermall.shop"><img src="./static/alterMallIcon.jpeg" height="90"/>
+          <div style='color:gray'>2023.01.15 ~ 2023.06.25</div>
+      </td>     
+    <tr />
+      <td align="center" style="width: 25%;">
+        <a href="https://altermall.shop"><img src="./static/alterMallIcon.jpeg" height="90"/></a>
+      </td>
+      <td align="center" style="width: 50%;">
+          <a href="https://altermall.shop">
           <div><strong>Web server develop </strong></div>
           <div><strong>using express </strong></div>
           </a>
-          <div style='color:gray'>2023.12.29 ~ Now</div>
       </td>
+      <td align="center" style="width: 25%;">
+          <div style='color:gray'>2023.12.29 ~ Now</div>
+      </td>     
     </tr>
   </tbody>
 </table>
