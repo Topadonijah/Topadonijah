@@ -76,7 +76,7 @@ carrying sheaves with them. (Psalm 126:5-6)
             <img src="https://github.com/Topadonijah/Trees/assets/49757982/7542dd7b-397d-4fc2-9b81-0e08a1aeb44e" height="90"/>
       </td>
       <td align="center" style="width: 50%;">
-            <div><strong>Student of</strong></div>
+            <div><strong>Bachelor's in</strong></div>
             <div><strong>Kookmin university</strong></div>
             <div><strong>Computer science</strong></div>
       </td>
