@@ -81,7 +81,7 @@ carrying sheaves with them. (Psalm 126:5-6)
             <div><strong>Computer science</strong></div>
       </td>
       <td align="center" style="width: 25%;">
-            <div style='color:gray'>2019.03.02 ~ Now</div>
+            <div style='color:gray'>2019.03 ~ 2025.02</div>
       </td>
     <tr />
       <td align="center" style="width: 25%;">
