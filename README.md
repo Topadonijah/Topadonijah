@@ -128,9 +128,11 @@ carrying sheaves with them. (Psalm 126:5-6)
             <img src="https://github.com/Topadonijah/Trees/assets/49757982/7542dd7b-397d-4fc2-9b81-0e08a1aeb44e" height="90"/>
       </td>
       <td align="center" style="width: 50%;">
+          <a href=https://jangho-kim.github.io/>
             <div><strong>Master's student</strong></div>
             <div><strong>Kookmin university</strong></div>
             <div><strong>Artificial Intelligence</strong></div>
+          </a>
       </td>
       <td align="center" style="width: 25%;">
             <div style='color:gray'>2025.02 ~ now</div>
