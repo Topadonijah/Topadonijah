@@ -125,7 +125,7 @@ carrying sheaves with them. (Psalm 126:5-6)
       </td>
       <td align="center" style="width: 50%;">
           <a href=https://jangho-kim.github.io/>
-            <div><strong>Master's student</strong></div>
+            <div><strong>Master student</strong></div>
             <div><strong>Kookmin university</strong></div>
             <div><strong>Artificial Intelligence</strong></div>
           </a>
