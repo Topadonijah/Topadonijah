@@ -100,10 +100,8 @@ carrying sheaves with them. (Psalm 126:5-6)
       </td>
       <td align="center" style="width: 50%;">
           <div><strong>SNS service "Haru"</strong></div>
-          <a href=""https://www.23haru.com"">
           <div><strong>Android application develop</strong></div>
           <div><strong>using Kotlin</strong></div>
-          </a>
       </td>
       <td align="center" style="width: 25%;">
           <div style='color:gray'>2023.01.15 ~ 2023.06.25</div>
@@ -114,10 +112,8 @@ carrying sheaves with them. (Psalm 126:5-6)
       </td>
       <td align="center" style="width: 50%;">
           <div><strong>Online Marketplace "Altermall"</strong></div>
-          <a href="https://altermall.shop">
           <div><strong>Web server develop </strong></div>
           <div><strong>using express </strong></div>
-          </a>
       </td>
       <td align="center" style="width: 25%;">
           <div style='color:gray'>2023.12.29 ~ Now</div>
