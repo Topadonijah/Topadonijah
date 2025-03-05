@@ -132,7 +132,7 @@ carrying sheaves with them. (Psalm 126:5-6)
           </a>
       </td>
       <td align="center" style="width: 25%;">
-            <div style='color:gray'>2025.02 ~ now</div>
+            <div style='color:gray'>2025.03 ~ now</div>
       </td>
     <tr />
   </tbody>
