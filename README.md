@@ -116,7 +116,7 @@ carrying sheaves with them. (Psalm 126:5-6)
           <div><strong>using express </strong></div>
       </td>
       <td align="center" style="width: 25%;">
-          <div style='color:gray'>2023.12.29 ~ Now</div>
+          <div style='color:gray'>2023.12.29 ~ 2024</div>
       </td>
     </tr>
     <tr>
