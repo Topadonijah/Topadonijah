@@ -14,11 +14,11 @@ carrying sheaves with them. (Psalm 126:5-6)
 
 <div align="center">
     
-# I'm currently learning!
-### **Stable diffusion**
-
-### **Django**
-
+# Research
+### **Generative model**
+### **Diffusion model**
+### **etc**
+<!--
 # Stacks
 <p align="center" display="inline-block">
     <strong>🔡Language</strong> 
@@ -63,6 +63,7 @@ carrying sheaves with them. (Psalm 126:5-6)
     <br>
 
 </p>
+-->
 
 </div>
 
