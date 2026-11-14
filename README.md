@@ -14,14 +14,14 @@ carrying sheaves with them. (Psalm 126:5-6)
 
 <div align="left">
     
-## Research Interests
+🔎## Research Interests
 - **Diffusion Model**
 - **Large Language Model**
 </div>
 
 <div align="left">
 
-## Education
+📚## Education
 
 **Master’s Student at Kookmin University**, 
 Department of AI SW · Mar 2025 – Present  
@@ -32,7 +32,7 @@ Research focus: diffusion models.
 **Bachelor’s Degree at Kookmin University**, 
 Computer Science · Mar 2019 – Feb 2025
 
-## Projects
+💻## Projects
     
 **Altermall** · Online Marketplace · 2023–2024  
   Developed the marketplace backend using Express.js.
@@ -40,21 +40,13 @@ Computer Science · Mar 2019 – Feb 2025
 **Haru** · Social Networking App · Jan–Jun 2023  
   Developed an Android social networking app in Kotlin.
 
-## Military Service
+🌊## Military Service
 
 **Republic of Korea Marine Corps** · Jan 2020 – Jul 2021  
   Discharged as a Sergeant.
 
-## Publication
+📃## Publication
 
-## Award
- 
-<!---![Topadonijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topadonijah&show_icons=true&theme=radical)--->
-<!--- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tasong12)](https://solved.ac/tasong12) --->
+🏆## Award
 
 </div>
-
-<!---
-Topadonijah/Topadonijah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
