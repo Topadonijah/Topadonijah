@@ -126,13 +126,14 @@ carrying sheaves with them. (Psalm 126:5-6)
       <td align="center" style="width: 50%;">
         <div><strong>Master student</strong></div>
         <div><strong>Kookmin university</strong></div>
-        <div><strong>Artificial Intelligence</strong></div>
+        <div><strong>AI SW</strong></div>
           <a href=https://jangho-kim.github.io/>
               <div><strong>MLPR Lab</strong></div>
           </a>
+        <div><strong> (Advisor: Jangho Kim)</strong> </div>
       </td>
       <td align="center" style="width: 25%;">
-            <div style='color:gray'>2025.03 ~ now</div>
+            <div style='color:gray'>2025.03 ~ present</div>
       </td>
     <tr />
   </tbody>
