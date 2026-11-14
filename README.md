@@ -32,7 +32,7 @@ Research focus: diffusion models.
 **Bachelor’s Degree at Kookmin University**, 
 Computer Science · Mar 2019 – Feb 2025
 
-## Selected Projects
+## Projects
     
 **Altermall** · Online Marketplace · 2023–2024  
   Developed the marketplace backend using Express.js.
