@@ -15,7 +15,6 @@ carrying sheaves with them. (Psalm 126:5-6)
 <div align="center">
     
 # Research
-### **Generative model**
 ### **Diffusion model**
 ### **etc**
 <!--
@@ -138,6 +137,10 @@ carrying sheaves with them. (Psalm 126:5-6)
     <tr />
   </tbody>
 </table>
+
+# Publication
+
+# Award
  
 <!---![Topadonijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topadonijah&show_icons=true&theme=radical)--->
 <!--- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tasong12)](https://solved.ac/tasong12) --->
