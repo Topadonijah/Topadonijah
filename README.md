@@ -24,13 +24,14 @@ carrying sheaves with them. (Psalm 126:5-6)
 # Experience
 ## Education
 
-### **Master’s Student in AI SW**, 
-Kookmin University · Mar 2025 – Present  
-[MLPR Lab](https://jangho-kim.github.io/) · Advisor: Prof. Jangho Kim  
+### **Master’s Student at Kookmin University**, 
+Department of AI SW · Mar 2025 – Present  
+Lab page:[MLPR Lab](https://jangho-kim.github.io/) 
+(Advisor: Prof. Jangho Kim) 
 Research focus: diffusion models.
   
-### **Bachelor’s Degree in Computer Science**, 
-Kookmin University · Mar 2019 – Feb 2025
+### **Bachelor’s Degree at Kookmin University**, 
+Computer Science · Mar 2019 – Feb 2025
 
 ## Selected Projects
     
