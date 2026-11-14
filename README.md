@@ -69,75 +69,24 @@ carrying sheaves with them. (Psalm 126:5-6)
 <div align="center">
 
 # Experience
-<table style="width: 100%;">
-  <tbody>
-    <tr>
-      <td align="center" style="width: 25%;">
-            <img src="https://github.com/Topadonijah/Trees/assets/49757982/7542dd7b-397d-4fc2-9b81-0e08a1aeb44e" height="90"/>
-      </td>
-      <td align="center" style="width: 50%;">
-            <div><strong>Bachelor's in</strong></div>
-            <div><strong>Kookmin university</strong></div>
-            <div><strong>Computer science</strong></div>
-      </td>
-      <td align="center" style="width: 25%;">
-            <div style='color:gray'>2019.03 ~ 2025.02</div>
-      </td>
-    <tr />
-      <td align="center" style="width: 25%;">
-            <img src="https://github.com/Topadonijah/Trees/assets/49757982/a0d8a6b6-9af9-4420-b668-065d3006830e" height="90"/>
-      </td>
-      <td align="center" style="width: 50%;">
-          <div><strong>Sergeant of</strong></div>
-          <div><strong>ROK Marine corps</strong></div>
-      </td>
-      <td align="center" style="width: 25%;">
-           <div style='color:gray'>2020 ~ 2021</div>
-      </td>     
-    <tr />
-      <td align="center" style="width: 25%;">
-        <a href=""https://www.23haru.com""><img src="https://avatars.githubusercontent.com/u/126999366" height="90"/>
-      </td>
-      <td align="center" style="width: 50%;">
-          <div><strong>SNS service "Haru"</strong></div>
-          <div><strong>Android application develop</strong></div>
-          <div><strong>using Kotlin</strong></div>
-      </td>
-      <td align="center" style="width: 25%;">
-          <div style='color:gray'>2023.01.15 ~ 2023.06.25</div>
-      </td>     
-    <tr />
-      <td align="center" style="width: 25%;">
-        <a href="https://altermall.shop"><img src="./static/alterMallIcon.jpeg" height="90"/></a>
-      </td>
-      <td align="center" style="width: 50%;">
-          <div><strong>Online Marketplace "Altermall"</strong></div>
-          <div><strong>Web server develop </strong></div>
-          <div><strong>using express </strong></div>
-      </td>
-      <td align="center" style="width: 25%;">
-          <div style='color:gray'>2023.12.29 ~ 2024</div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="width: 25%;">
-            <img src="https://github.com/Topadonijah/Trees/assets/49757982/7542dd7b-397d-4fc2-9b81-0e08a1aeb44e" height="90"/>
-      </td>
-      <td align="center" style="width: 50%;">
-        <div><strong>Master student</strong></div>
-        <div><strong>Kookmin university</strong></div>
-        <div><strong>AI SW</strong></div>
-          <a href=https://jangho-kim.github.io/>
-              <div><strong>MLPR Lab</strong></div>
-          </a>
-        <div><strong> (Advisor: Jangho Kim)</strong> </div>
-      </td>
-      <td align="center" style="width: 25%;">
-            <div style='color:gray'>2025.03 ~ present</div>
-      </td>
-    <tr />
-  </tbody>
-</table>
+## Education
+
+- **Master’s Student in AI SW**, Kookmin University · Mar 2025 – Present  
+  [MLPR Lab](https://jangho-kim.github.io/) · Advisor: Prof. Jangho Kim  
+  Research focus: video diffusion models and motion control in video generation.
+- **Bachelor’s Degree in Computer Science**, Kookmin University · Mar 2019 – Feb 2025
+
+## Selected Projects
+
+- **Altermall** · Online Marketplace · 2023–2024  
+  Developed the marketplace backend using Express.js.
+- **Haru** · Social Networking App · Jan–Jun 2023  
+  Developed an Android social networking app in Kotlin.
+
+## Military Service
+
+- **Republic of Korea Marine Corps** · Jan 2020 – Jul 2021  
+  Discharged as a Sergeant.
 
 # Publication
 
