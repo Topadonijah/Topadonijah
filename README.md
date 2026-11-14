@@ -73,13 +73,15 @@ carrying sheaves with them. (Psalm 126:5-6)
 
 - **Master’s Student in AI SW**, Kookmin University · Mar 2025 – Present  
   [MLPR Lab](https://jangho-kim.github.io/) · Advisor: Prof. Jangho Kim  
-  Research focus: video diffusion models and motion control in video generation.
+  Research focus: diffusion models.
+  
 - **Bachelor’s Degree in Computer Science**, Kookmin University · Mar 2019 – Feb 2025
 
 ## Selected Projects
 
 - **Altermall** · Online Marketplace · 2023–2024  
   Developed the marketplace backend using Express.js.
+  
 - **Haru** · Social Networking App · Jan–Jun 2023  
   Developed an Android social networking app in Kotlin.
 
